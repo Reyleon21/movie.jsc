@@ -1,0 +1,6 @@
+var movies = ["Game of Throns", "Star wars", "superman", "Spiderman", "Avengers", "End game"];
+
+movies.pop();
+movies.shift();
+
+console.log(movies);
